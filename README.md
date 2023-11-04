@@ -1,10 +1,18 @@
 ```
 root@DeepexeOnTerminal~# more about.dat
 
- Deepexe's personality
----------------------------------+
-Carburant  ☕️ - Cofee            |
-My Hobbies 📁 - Developpement    |
-My Love    ❤️ - My Computer      |
----------------------------------+
+                   YAao,                              |
+                    Y8888b,                           |                    Today's nerd,                
+                  ,oA8888888b,                        |                        tomorrow's big boss  (M1000)
+            ,aaad8888888888888888bo,                  |
+         ,d888888888888888888888888888b,              |    Development time : + 5000 Hours
+       ,888888888888888888888888888888888b,           |    Last love relationship : RTX 3080, Discord VScode exentension, Sublime Text, Lua
+      d8888888888888888888888888888888888888,         |    Language I use : Python, JS, Html, Css, Assembly, Lua
+     d888888888888888888888888888888888888888b        |    Country : France
+    d888888P'                    `Y888888888888,      |    Favorite Games : Minecraft, OSU!, Chess
+    88888P'                    Ybaaaa8888888888l      |    Clash Of Clan : HDV 12, Lvl 79
+   a8888'                      `Y8888P' `V888888      |    Date of birth : 01 01 1999 (I'm a minor)
+ d8888888a                                `Y8888      |    Favorite OS : Ubuntu, Arch, The little penguin
+AY/'' `\Y8b                                 ``Y8b     |
+Y'      `YP                                    ~~     |            (VIM IS BETTER)
 ```
