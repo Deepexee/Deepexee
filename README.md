@@ -6,7 +6,7 @@ root@DeepexeOnTerminal~# more about.dat
                   ,oA8888888b,                        |                        tomorrow's big boss  (M1000)
             ,aaad8888888888888888bo,                  |
          ,d888888888888888888888888888b,              |    Development time : + 5000 Hours
-       ,888888888888888888888888888888888b,           |    Last love relationship : RTX 3080, Discord VScode exentension, Sublime Text, Lua
+       ,888888888888888888888888888888888b,           |    Last love relationship : RTX 3080, Sublime Text, Lua
       d8888888888888888888888888888888888888,         |    Language I use : Python, JS, Html, Css, Assembly, Lua
      d888888888888888888888888888888888888888b        |    Country : France
     d888888P'                    `Y888888888888,      |    Favorite Games : Minecraft, OSU!, Chess
