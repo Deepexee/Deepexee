@@ -4,7 +4,7 @@
 |    \ ___ ___ ___ ___ _ _ ___  !  The Internet belongs to no one.....................Hacktivism
 |  |  | -_| -_| . | -_|_'_| -_| !  repressive institutions, states, and governments...Freedom
 |____/|___|___|  _|___|_,_|___| !  have no right to impose restrictions here..........Love
-I'm either in |_| jail or on the street             
+              |_|
 </pre>
 </p>
 
