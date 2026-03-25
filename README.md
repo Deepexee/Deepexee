@@ -8,7 +8,22 @@
 </pre>
 </p>
 
-![gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F183%2F183930.gif&f=1&nofb=1&ipt=b90707cf14d341952115e7e34c73063c646bc266f2e4c3b0ee5f274835c29288)
+<table>
+  <tr>
+    <td>
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F183%2F183930.gif&f=1&nofb=1&ipt=b90707cf14d341952115e7e34c73063c646bc266f2e4c3b0ee5f274835c29288" width="300"/>
+    </td>
+    <td>
+      <h3>Get politically involved</h3>
+      <p>
+        Take action for a better world<br>
+        - Share banned content<br>
+        - Get together in small groups<br>
+        - Put your computer skills to good use<br>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Deepexee/Deepexee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
