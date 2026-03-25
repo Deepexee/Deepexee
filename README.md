@@ -1,13 +1,12 @@
 <p align="center">
 <pre>                  
  ____
-|    \ ___ ___ ___ ___ _ _ ___  !  The Internet belongs to no one
-|  |  | -_| -_| . | -_|_'_| -_| !  repressive institutions, states, and governments
-|____/|___|___|  _|___|_,_|___| !  have no right to impose restrictions here
+|    \ ___ ___ ___ ___ _ _ ___  !  The Internet belongs to no one.....................Hacktivism
+|  |  | -_| -_| . | -_|_'_| -_| !  repressive institutions, states, and governments...Freedom
+|____/|___|___|  _|___|_,_|___| !  have no right to impose restrictions here..........Love
 I'm either in |_| jail or on the street             
 </pre>
 </p>
-I'm either in prison or in a city under a fake identity
 
 <!--
 **Deepexee/Deepexee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
