@@ -1,9 +1,10 @@
 <p align="center">
-<pre>
->   ____  ____  ____  ____  ____  _  _  ____  |
->  (    \(  __)(  __)(  _ \(  __)( \/ )(  __) | deepexe@cheatengine.fr
->   ) D ( ) _)  ) _)  ) __/ ) _)  )  (  ) _)  |
->  (____/(____)(____)(__)  (____)(_/\_)(____) |
+<pre>                  
+ ____
+|    \ ___ ___ ___ ___ _ _ ___  !  The Internet belongs to no one
+|  |  | -_| -_| . | -_|_'_| -_| !  repressive institutions, states, and governments
+|____/|___|___|  _|___|_,_|___| !  have no right to impose restrictions here
+I'm either in |_| jail or on the street             
 </pre>
 </p>
 I'm either in prison or in a city under a fake identity
